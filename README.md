@@ -1,4 +1,4 @@
 # trapnetx
 https://trapnet.xyz
 
-aimbot bugged
+all my .lua and .py files are private for now :>
